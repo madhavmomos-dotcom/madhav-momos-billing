@@ -1,0 +1,17 @@
+{
+  "name": "Madhav Momos Billing",
+  "short_name": "Madhav Billing",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f3ef",
+  "theme_color": "#d85b2b",
+  "description": "Billing and inventory manager for Madhav Momos & Foods",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
